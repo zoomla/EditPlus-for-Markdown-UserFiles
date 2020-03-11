@@ -8,7 +8,8 @@
 
 - [Markdown For EditPlus插件使用说明](#markdown-for-editplus插件使用说明)
     - [开发缘由](#开发缘由)
-    - [特点好处：](#特点好处)
+    - [官方收录](#官方收录)
+    - [特点好处](#特点好处)
 - [中文版使用说明](#中文版使用说明)
     - [相关命令(输入字符敲空格自动输出）：](#相关命令输入字符敲空格自动输出)
     - [EditPlus常用快捷键：](#editplus常用快捷键)
@@ -39,7 +40,15 @@ Markdown语法也越来越使用广泛。
 遗憾的是，Editplus软件却没有支持markdown语法的用户配置文件。
 所以我们做了这个配置插件。
 
-##特点好处：
+## 官方收录
+
+这一工具已经被官方收录，大家也可以访问Editplus官方网站下载，地址是：
+
+https://www.editplus.com/others.html
+
+![EditPlus官方收录.jpg](https://www.z01.com/UploadFiles/Anony/content/md/IRDPixpgRX..jpg)
+
+## 特点好处
 1、支持markdown语法自动编译，只要简单的写几个字符，比如link就能输出复杂的markdown语法。
 2、分中文和英文两个版本。
 3、根据我们的配置创建.md文件就会获得一个卓越的markdown模板，优雅写作。
